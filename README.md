@@ -1,5 +1,5 @@
 # SF1-architecture
-
+<pre>
 Module <br>
   controler<br>
   template<br>
@@ -22,3 +22,4 @@ Tests<br>
 Web<br>
   app.php<br>
    layout<br>
+</pre>
