@@ -1,24 +1,24 @@
 # SF1-architecture
 
-Module
-  controler
-  template
-    composants html
-    partial
-Config
-  routing
-  settings
-Data
-  fixtures.html
-  init
-  schema.yml (entité doctrine | propal)
-Lib
-  Model
-    base 
-      sfuser
-      sfDoctrineUser_extend
-Plugins
-Tests
-Web
-  app.php
-   layout
+Module <br>
+  controler<br>
+  template<br>
+    composants html<br>
+    partial<br>
+Config<br>
+  routing<br>
+  settings<br>
+Data<br>
+  fixtures.html<br>
+  init<br>
+  schema.yml (entité doctrine | propal)<br>
+Lib<br>
+  Model<br>
+    base <br>
+      sfuser<br>
+      sfDoctrineUser_extend<br>
+Plugins<br>
+Tests<br>
+Web<br>
+  app.php<br>
+   layout<br>
