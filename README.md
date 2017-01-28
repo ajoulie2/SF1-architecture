@@ -21,5 +21,5 @@ Plugins
 Tests
 Web
   app.php
-   layout
+  layout
 </pre>
